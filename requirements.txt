@@ -7,3 +7,4 @@ scikit-learn
 fpdf2
 python-dotenv
 tqdm
+pypdf

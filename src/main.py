@@ -13,7 +13,7 @@ from ranker import blend_and_rank_candidates, save_ranked_csv
 from presentation import generate_presentation_deck
 
 # Load configurations
-load_dotenv()
+load_dotenv(override=True)
 
 # Setup logging
 logging.basicConfig(

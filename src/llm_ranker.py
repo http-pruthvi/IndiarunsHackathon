@@ -5,7 +5,7 @@ from typing import List, Dict, Any, Optional
 import google.generativeai as genai
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(override=True)
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)
