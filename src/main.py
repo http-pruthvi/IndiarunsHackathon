@@ -9,7 +9,7 @@ from ingest import load_job_description, load_candidates
 from embedder import CandidateEmbedder
 from scorer import compute_hybrid_scores
 from llm_ranker import GeminiRanker
-from ranker import blend_and_rank_candidates, save_ranked_csv
+from ranker import blend_and_rank_candidates, save_ranked_csv, save_ranked_pdf
 from presentation import generate_presentation_deck
 
 # Load configurations
@@ -121,9 +121,13 @@ def main() -> None:
     # Ensure output directory exists
     os.makedirs(os.path.dirname(args.output), exist_ok=True)
     
-    # 6. Save Ranked Spreadsheet
+    # 6. Save Ranked Spreadsheet & PDF
     logger.info(f"Saving complete ranked spreadsheet to: {args.output}")
     save_ranked_csv(final_ranked_candidates, args.output)
+    
+    ranked_pdf = args.output.replace(".csv", ".pdf")
+    logger.info(f"Saving complete ranked PDF document to: {ranked_pdf}")
+    save_ranked_pdf(final_ranked_candidates, ranked_pdf)
     
     # 7. Generate Presentation Deck PDF
     logger.info(f"Compiling presentation slide deck to: {args.deck}")
