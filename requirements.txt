@@ -1,0 +1,9 @@
+sentence-transformers
+google-generativeai
+rapidfuzz
+pandas
+numpy
+scikit-learn
+fpdf2
+python-dotenv
+tqdm

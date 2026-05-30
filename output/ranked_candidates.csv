@@ -1,0 +1,51 @@
+rank,candidate_id,name,current_title,years_experience,top_skills,final_score,semantic_score,skills_score,experience_score,behavior_score,llm_score,llm_reasoning,recommendation
+1,CAN-005,Amina Yusuf,Principal AI Architect,9.0,"Python, PyTorch, Transformers, LLMs, MLOps, Kubernetes, AWS, SQL, Vector DBs, MLflow, CI/CD",82.78,67.07,100.0,98.5,75.0,,LLM disabled (fallback active),HIRE
+2,CAN-002,Rajesh Sharma,Lead Machine Learning Engineer,8.0,"Python, PyTorch, TensorFlow, MLOps, Docker, Kubernetes, AWS, Triton Inference Server, MLflow, Pinecone, TensorRT, CI/CD",81.1,66.44,100.0,97.0,67.5,,LLM disabled (fallback active),HIRE
+3,CAN-001,Dr. Emily Chen,Senior Research Scientist (AI),7.5,"Python, PyTorch, Transformers, Large Language Models (LLMs), JAX, MLOps, Docker, AWS, SQL",80.1,65.35,100.0,87.43,76.5,,LLM disabled (fallback active),HIRE
+4,CAN-006,Arjun Nair,Senior ML Infrastructure Engineer,6.5,"Python, PyTorch, MLOps, Kubernetes, Docker, AWS (SageMaker, S3), Prefect, Prometheus, Grafana, MLflow, SQL, Git",79.97,75.22,93.75,94.75,50.0,,LLM disabled (fallback active),HIRE
+5,CAN-012,Devon Harris,Senior AI Platforms Engineer,9.5,"Python, PyTorch, MLOps, Kubernetes, Docker, AWS, MLflow, Triton, Kubeflow, Pinecone, SQL, Git",79.5,72.71,100.0,86.21,54.5,,LLM disabled (fallback active),HIRE
+6,CAN-010,Carlos Gomez,Senior ML & Deep Learning Engineer,6.0,"Python, PyTorch, JAX, Transformers, MLOps, AWS, Docker, Kubernetes, Triton, TensorRT, Git",78.94,71.1,100.0,90.03,50.0,,LLM disabled (fallback active),HIRE
+7,CAN-003,Sarah Jenkins,Senior ML Engineer,6.0,"Python, PyTorch, Transformers, NLP, HuggingFace, AWS, Pinecone, LangChain, Git, Docker",77.35,61.36,100.0,94.0,60.0,,LLM disabled (fallback active),HIRE
+8,CAN-008,David Miller,Lead AI Engineer,8.5,"Python, PyTorch, TensorFlow, LLMs, HuggingFace, LangChain, Docker, Kubernetes, AWS, Pinecone, MLflow, Git",76.84,63.4,100.0,84.79,63.5,,LLM disabled (fallback active),HIRE
+9,CAN-026,Ryan Gallagher,Machine Learning Engineer,3.5,"Python, PyTorch, MLOps, MLflow, AWS, Docker, SQL, Git, Pandas",76.69,70.59,100.0,79.75,50.0,,LLM disabled (fallback active),HIRE
+10,CAN-011,Sophia Rodriguez,Senior Machine Learning Engineer,7.0,"Python, PyTorch, Transformers, LLMs, MLOps, Pinecone, Docker, AWS, MLflow, SQL, Git",76.56,62.4,100.0,95.5,50.0,,LLM disabled (fallback active),HIRE
+11,CAN-004,Marcus Vance,Senior Deep Learning Engineer,5.5,"Python, PyTorch, Computer Vision, Transformers, Triton, TensorRT, OpenCV, Docker, AWS, Git",76.21,62.64,100.0,93.25,50.0,,LLM disabled (fallback active),HIRE
+12,CAN-007,Elena Rostova,Senior Machine Learning Engineer,7.0,"Python, PyTorch, Transformers, NLP, Deep Learning, HuggingFace, Milvus, Docker, AWS, Git",75.83,58.71,100.0,95.5,55.0,,LLM disabled (fallback active),HIRE
+13,CAN-009,Mei-Ling Zhou,Senior ML Engineer - NLP,5.0,"Python, PyTorch, Transformers, Deep Learning, NLP, AWS, Docker, Git, SQL, Pandas, HuggingFace",74.01,61.09,100.0,85.36,50.0,,LLM disabled (fallback active),HIRE
+14,CAN-023,Mateo Silva,Machine Learning Engineer,4.0,"Python, PyTorch, TensorFlow, Scikit-learn, MLOps, AWS, Docker, Git, SQL",73.66,68.71,87.5,84.0,50.0,,LLM disabled (fallback active),HIRE
+15,CAN-015,Daniel Kim,Software Engineer (Machine Learning),4.0,"Python, PyTorch, Docker, AWS, SQL, Git, FastAPI, Pandas, NumPy",72.5,73.12,87.5,69.38,50.0,,LLM disabled (fallback active),HIRE
+16,CAN-018,Vikram Malhotra,Senior Software Engineer (Data),7.0,"Python, SQL, Spark, Scala, AWS (S3, EMR), Docker, Airflow, Git, Pandas, NumPy",70.58,64.96,87.5,76.11,50.0,,LLM disabled (fallback active),HIRE
+17,CAN-013,Leo Mercer,Machine Learning Engineer,3.5,"Python, PyTorch, Scikit-learn, Pandas, NumPy, Docker, AWS, Git, SQL",69.04,59.28,87.5,79.75,50.0,,LLM disabled (fallback active),MAYBE
+18,CAN-029,Isabella Rossi,Machine Learning Engineer,3.5,"Python, PyTorch, Scikit-learn, Pandas, Docker, Git, SQL, AWS",68.34,65.35,75.0,79.75,50.0,,LLM disabled (fallback active),MAYBE
+19,CAN-022,Emma Watson,NLP Engineer,3.5,"Python, PyTorch, Transformers, HuggingFace, NLP, Git, Docker, SQL, Pandas",66.79,49.1,100.0,73.23,50.0,,LLM disabled (fallback active),MAYBE
+20,CAN-016,Fatima Zahra,Machine Learning Engineer,3.0,"Python, PyTorch, Transformers, HuggingFace, NLP, Git, SQL, Pandas",66.53,55.15,87.5,75.5,50.0,,LLM disabled (fallback active),MAYBE
+21,CAN-020,Yuki Tanaka,AI Research Engineer,4.0,"Python, PyTorch, JAX, Reinforcement Learning, Transformers, Deep Learning, Git",66.42,63.89,75.0,65.58,60.0,,LLM disabled (fallback active),MAYBE
+22,CAN-017,Oliver Hansen,Data Scientist / ML Developer,4.5,"Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, SQL, Git, AWS",65.93,61.32,75.0,68.25,60.0,,LLM disabled (fallback active),MAYBE
+23,CAN-019,Jessica Taylor,Machine Learning Engineer,3.0,"Python, PyTorch, Transformers, Computer Vision, OpenCV, Docker, Git, Pandas",65.0,55.38,75.0,75.5,60.0,,LLM disabled (fallback active),MAYBE
+24,CAN-025,Zhang Wei,Software Engineer (AI Integration),5.0,"Python, Java, Git, SQL, Docker, AWS, REST APIs, Pandas, Scikit-learn",64.93,65.13,62.5,71.29,60.0,,LLM disabled (fallback active),MAYBE
+25,CAN-030,Lucas Dubois,Software Engineer (ML Team),4.0,"Python, PyTorch, C++, Git, SQL, Docker, AWS, CMake",64.25,64.67,75.0,60.67,50.0,,LLM disabled (fallback active),MAYBE
+26,CAN-028,Tariq Mahmood,AI Developer,3.0,"Python, PyTorch, Transformers, HuggingFace, NLP, Git, Docker, SQL",62.44,56.17,87.5,45.5,60.0,,LLM disabled (fallback active),MAYBE
+27,CAN-021,Kofi Mensah,Data Scientist,5.0,"Python, Scikit-learn, Pandas, NumPy, SQL, R, Docker, AWS, Git",59.24,44.09,75.0,76.79,50.0,,LLM disabled (fallback active),MAYBE
+28,CAN-024,Chloe Lefebvre,Data Scientist / ML Engineer,3.0,"Python, PyTorch, Scikit-learn, Transformers, HuggingFace, SQL, Git, Pandas",57.71,48.5,75.0,60.28,50.0,,LLM disabled (fallback active),MAYBE
+29,CAN-027,Simran Kaur,Data Scientist,4.5,"Python, Scikit-learn, Pandas, SQL, Tableau, AWS, Git, NumPy",56.75,44.03,62.5,72.54,60.0,,LLM disabled (fallback active),MAYBE
+30,CAN-014,Priya Patel,Data Scientist,4.0,"Python, R, Scikit-learn, Pandas, SQL, NumPy, Tableau, Git, Docker",56.29,45.03,62.5,68.29,60.0,,LLM disabled (fallback active),MAYBE
+31,CAN-033,Charlie Chaplin,Junior Python Developer,1.5,"Python, Django, HTML, CSS, SQL, Git, Basic Pandas",42.37,50.3,31.25,34.7,50.0,,LLM disabled (fallback active),PASS
+32,CAN-039,Ian Malcolm,Database Administrator,8.0,"SQL, PostgreSQL, MySQL, Database Administration, Backup Recovery, Linux",40.56,37.44,18.75,67.0,50.0,,LLM disabled (fallback active),PASS
+33,CAN-041,Kevin Bacon,Junior QA Automation Engineer,2.0,"Python, Selenium, PyTest, QA Testing, Test Automation, Git, Jenkins",38.76,44.26,12.5,44.66,60.0,,LLM disabled (fallback active),PASS
+34,CAN-050,Tony Stark,Embedded Systems Hobbyist / Junior HW Engineer,2.0,"C, C++, Arduino, Embedded Systems, Circuit Design, Basic Python, Git",37.46,42.68,18.75,41.0,50.0,,LLM disabled (fallback active),PASS
+35,CAN-034,Diana Prince,Product Marketing Manager,5.0,"Digital Marketing, SEO, Google Analytics, Copywriting, Strategy, Excel",36.52,31.81,0.0,66.5,70.0,,LLM disabled (fallback active),PASS
+36,CAN-036,Fiona Gallagher,HR Specialist / Recruiting Coordinator,4.0,"Recruiter, Talent Acquisition, ATS, HR Operations, Excel, Communication",34.52,34.4,6.25,55.67,53.75,,LLM disabled (fallback active),PASS
+37,CAN-032,Bob Builder,Civil Engineer / Project Coordinator,6.0,"AutoCAD, Excel, Project Management, Civil Engineering, Construction Safety",33.92,34.05,0.0,64.0,50.0,,LLM disabled (fallback active),PASS
+38,CAN-043,Michael Scott,Regional Sales Manager,10.0,"Sales Management, Negotiation, Client Relations, Public Speaking, Leadership",33.88,25.49,0.0,73.4,60.0,,LLM disabled (fallback active),PASS
+39,CAN-049,Steve Rogers,Security Supervisor / Logistics Lead,9.0,"Logistics, Security Operations, Leadership, Emergency Response, Excel",33.37,29.65,0.0,70.04,50.0,,LLM disabled (fallback active),PASS
+40,CAN-031,Alice Wonderland,Frontend React Developer,4.0,"React, HTML, CSS, Javascript, TypeScript, Redux, Webpack, Git, Tailwind",32.84,28.46,0.0,56.64,67.5,,LLM disabled (fallback active),PASS
+41,CAN-035,Evan Hansen,Technical Writer,3.0,"Markdown, Technical Writing, Git, Documentation, API Documentation, HTML",31.54,37.05,0.0,46.09,50.0,,LLM disabled (fallback active),PASS
+42,CAN-042,Lois Lane,Investigative Journalist / Copywriter,7.0,"Copywriting, Content Writing, Research, Editing, Interviewing, Social Media",31.53,23.23,0.0,66.19,60.0,,LLM disabled (fallback active),PASS
+43,CAN-040,Julia Roberts,Customer Success Manager,5.0,"Customer Success, CRM, Salesforce, Communication, Relationship Building, Excel",31.41,24.78,0.0,62.5,60.0,,LLM disabled (fallback active),PASS
+44,CAN-037,George Costanza,Assistant to the General Manager,6.0,"Office Administration, Sales, Scheduling, Excel, Customer Relations",31.07,22.24,0.0,65.88,60.0,,LLM disabled (fallback active),PASS
+45,CAN-045,Oscar Martinez,Senior Accountant,8.0,"Accounting, Excel, Financial Analysis, Tax Compliance, Bookkeeping, SAP",30.1,16.39,0.0,72.71,60.0,,LLM disabled (fallback active),PASS
+46,CAN-047,Quinn Fabray,Social Media Coordinator,2.0,"Social Media, Content Creation, Instagram, TikTok, Canva, Copywriting",28.82,25.11,6.25,36.57,66.0,,LLM disabled (fallback active),PASS
+47,CAN-038,Harley Quinn,Graphic Designer,3.0,"Adobe Photoshop, Illustrator, Figma, Graphic Design, Brand Identity, UI Design",28.81,24.58,0.0,49.89,60.0,,LLM disabled (fallback active),PASS
+48,CAN-044,Nancy Drew,Junior Business Analyst,1.5,"Excel, SQL, PowerBI, Business Analysis, Agile, Scrum, Communication",28.62,27.63,12.5,34.7,50.0,,LLM disabled (fallback active),PASS
+49,CAN-046,Peter Parker,Freelance Photographer,3.0,"Photography, Photo Editing, Photoshop, Social Media, Creative Writing",27.65,24.29,0.0,44.65,60.0,,LLM disabled (fallback active),PASS
+50,CAN-048,Rachel Green,Fashion Merchandiser / Buyer,5.0,"Fashion Merchandising, Buying, Inventory Management, Trend Analysis, Excel",27.31,16.61,0.0,65.83,50.0,,LLM disabled (fallback active),PASS

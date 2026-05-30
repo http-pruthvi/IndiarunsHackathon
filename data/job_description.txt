@@ -1,0 +1,25 @@
+Title: Senior Machine Learning Engineer
+Department: AI & Core Modeling Group
+Experience Required: 5+ years of industry experience building and deploying production ML systems.
+
+About the Role:
+We are looking for a Senior Machine Learning Engineer to design, train, evaluate, and scale state-of-the-art machine learning models. In this role, you will lead our technical efforts in large language models (LLMs), deep learning, and robust MLOps pipelines. You will collaborate with engineering and product teams to translate complex research into scalable and reliable features that power our core platform.
+
+Required Core Skills:
+- Programming Languages: Python, C++
+- Deep Learning Frameworks: PyTorch, TensorFlow, JAX
+- Machine Learning Areas: Deep Learning, Natural Language Processing (NLP), Transformers, Large Language Models (LLMs), Computer Vision, Reinforcement Learning
+- MLOps & Infrastructure: Docker, Kubernetes, AWS (Sagemaker, EC2, S3), MLflow, Prefect, Triton Inference Server, CI/CD
+- Data Engineering & Databases: SQL, Spark, Pandas, NumPy, Vector Databases (Pinecone, Milvus, Qdrant)
+- Core Engineering: Git, Software Engineering best practices, distributed systems, model optimization (Quantization, TensorRT, ONNX)
+
+Key Responsibilities:
+- Design, implement, and fine-tune large-scale deep learning models (specifically Transformer-based models and LLMs) for proprietary datasets.
+- Build, optimize, and maintain end-to-end ML pipelines from data ingestion and cleaning to model deployment, monitoring, and retraining.
+- Collaborate with infrastructure teams to optimize model inference latency and throughput using technologies like TensorRT, ONNX, and quantization techniques.
+- Establish best practices for MLOps, including model version control, automated testing, and CI/CD for machine learning systems.
+- Mentor junior engineers and stay abreast of the latest advancements in AI/ML research, applying them to real-world business applications.
+
+Education & Experience:
+- BS, MS, or PhD in Computer Science, Machine Learning, Mathematics, Statistics, or a related quantitative field.
+- 5+ years of professional software engineering and machine learning experience, with a track record of deploying models to production at scale.
